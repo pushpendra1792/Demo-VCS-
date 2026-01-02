@@ -1,7 +1,7 @@
 Hello, this is my first file
 another line here.
 just to test the system.
-Add another line here.
 
 
-2025 was good for testing.
+2026 will be a great year!
+Goodbye!
