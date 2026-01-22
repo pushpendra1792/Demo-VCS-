@@ -6,5 +6,6 @@ struct Node{
 int main(){
     struct Node s;
     printf("%d",s.data);
+    // Switched to black rock
     return 0;
 }
