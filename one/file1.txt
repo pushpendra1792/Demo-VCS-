@@ -7,3 +7,4 @@ just to test the system.
 Goodbye!
 
 added in bug-fix
+final line here.
