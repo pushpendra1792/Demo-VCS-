@@ -6,7 +6,7 @@ struct Node{
 int main(){
     struct Node s;
     printf("%d",s.data);
-    printf("You know who Iam");
+    
     // Switched to black rock
     return 0;
 }
